@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Replace YOUR_DOMAIN_HERE with Terry's verified production domain before launch. -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://YOUR_DOMAIN_HERE/</loc></url>
+  <url><loc>https://YOUR_DOMAIN_HERE/problems</loc></url>
+  <url><loc>https://YOUR_DOMAIN_HERE/problems/grounding</loc></url>
+  <url><loc>https://YOUR_DOMAIN_HERE/problems/cleaning</loc></url>
+  <url><loc>https://YOUR_DOMAIN_HERE/problems/powder-use</loc></url>
+  <url><loc>https://YOUR_DOMAIN_HERE/problems/unusual</loc></url>
+  <url><loc>https://YOUR_DOMAIN_HERE/services</loc></url>
+  <url><loc>https://YOUR_DOMAIN_HERE/services/troubleshooting</loc></url>
+  <url><loc>https://YOUR_DOMAIN_HERE/services/training</loc></url>
+  <url><loc>https://YOUR_DOMAIN_HERE/services/process-improvement</loc></url>
+  <url><loc>https://YOUR_DOMAIN_HERE/case-notes</loc></url>
+  <url><loc>https://YOUR_DOMAIN_HERE/about</loc></url>
+  <url><loc>https://YOUR_DOMAIN_HERE/resources</loc></url>
+  <url><loc>https://YOUR_DOMAIN_HERE/contact</loc></url>
+  <url><loc>https://YOUR_DOMAIN_HERE/privacy</loc></url>
+  <url><loc>https://YOUR_DOMAIN_HERE/terms</loc></url>
+</urlset>
